@@ -1,6 +1,5 @@
-pandas
-matplotlib
 pypdf
 pdfplumber
 pymupdf
 pathlib
+pdfminer.six
