@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pypdf
+pdfplumber
+pymupdf
+pathlib
