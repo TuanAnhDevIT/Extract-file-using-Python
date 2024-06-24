@@ -1,0 +1,30 @@
+Application
+Presentation
+Session
+Transport
+Network
+Data Link
+Physical
+Client
+Application
+Presentation
+Session
+Transport
+Network
+Data Link
+Physical
+Backend Server
+Across networks
+Layer 4 Proxy, Firewall
+Data Link
+Physical
+Layer 7 Load Balancer/CDN
+Network
+Data Link
+Physical
+Network
+Application
+Presentation
+Session
+Transport
+Transport

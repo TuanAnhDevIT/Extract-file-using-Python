@@ -1,0 +1,20 @@
+Application
+Presentation
+Session
+Transport
+Network
+Data Link
+Physical
+Client
+Application
+Presentation
+Session
+Transport
+Network
+Data Link
+Physical
+Server
+Client sends an HTTPS POST request
+Frame
+Packet
+Segment

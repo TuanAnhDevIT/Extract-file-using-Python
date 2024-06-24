@@ -8,3 +8,4 @@ python-docx
 fpdf
 pdf2image
 docx2txt
+python-pptx

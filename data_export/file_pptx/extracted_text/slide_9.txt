@@ -1,0 +1,21 @@
+The OSI Layers - an Example (Receiver)
+Receiver computer receives the POST request the other way around 
+Layer 1 - Physical 
+Radio, electric or light is received and converted into digital bits
+Layer 2 - Data link 
+The bits from Layer 1 is assembled into frames
+Layer 3 - Network
+The frames from layer 2 are assembled into IP packet. 
+Layer 4 - Transport
+The IP packets from layer 3 are assembled into TCP segments
+Deals with Congestion control/flow control/retransmission in case of TCP
+If Segment is SYN we don’t need to go further into more layers as we are still processing the connection request
+Layer 5 - Session
+The connection session is established or identified
+We only arrive at this layer when necessary (three way handshake is done)
+Layer 6 - Presentation
+Deserialize flat byte strings back to JSON for the app to consume
+Layer 7 - Application
+Application understands the JSON POST request and your express json or apache request receive event is triggered
+Take it with a grain of salt, it's not always cut and dry
+husseinnasser
