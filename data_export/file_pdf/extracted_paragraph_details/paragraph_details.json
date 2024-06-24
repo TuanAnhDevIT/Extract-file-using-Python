@@ -1,0 +1,732 @@
+[
+    {
+        "page": 1,
+        "line_content": "Part 3: Needs Met Rating Guideline ",
+        "font_details": [
+            {
+                "text": " Part 3: Needs Met Rating Guideline ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 18.0,
+                "color": 3302911,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "13.0  Rating Using the Needs Met Scale ",
+        "font_details": [
+            {
+                "text": " 13.0  Rating Using the Needs Met Scale ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 12.0,
+                "color": 3302911,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "There  are  many  different  kinds  of  queries  and  results,  but  the  process  of  rating  is  the  same:  There  are  many  different  kinds  of  queries  and  results,  but  the  process  of  rating  is  the  same: Needs  Met  rating  tasks  ask  you to focus on user needs and think about how helpful and satisfying the result is for the users  Needs  Met  rating  tasks  ask  you to focus on user needs and think about how helpful and satisfying the result is for the users . ",
+        "font_details": [
+            {
+                "text": " There  are  many  different  kinds  of  queries  and  results,  but  the  process  of  rating  is  the  same: ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " Needs  Met  rating  tasks  ask  you to focus on user needs and think about how helpful and satisfying the result is for the users ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " . ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "This is what the Needs Met rating slider looks like: ",
+        "font_details": [
+            {
+                "text": " This is what the Needs Met rating slider looks like: ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Rating  Description ",
+        "font_details": [
+            {
+                "text": " Rating  Description ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Fully Meets (FullyM) ",
+        "font_details": [
+            {
+                "text": " Fully Meets (FullyM) ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "A special rating category, which only applies to certain queries and results.  A special rating category, which only applies to certain queries and results. All or almost all  users would be immediately and fully satisfied by the result and would not need to view other  results to satisfy their need. ",
+        "font_details": [
+            {
+                "text": " A special rating category, which only applies to certain queries and results. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 2171169,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " All or almost all  users would be immediately and fully satisfied by the result and would not need to view other  results to satisfy their need. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Highly Meets (HM)  Highly Meets (HM) Very helpful for many or most users.  Some users may wish to see additional results. ",
+        "font_details": [
+            {
+                "text": " Highly Meets (HM) ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " Very helpful for many or most users.  Some users may wish to see additional results. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 2171169,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Moderately Meets (MM)  Moderately Meets (MM) Helpful for many users OR very helpful for some users.  Some or many users may wish to  see additional results. ",
+        "font_details": [
+            {
+                "text": " Moderately Meets (MM) ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " Helpful for many users OR very helpful for some users.  Some or many users may wish to  see additional results. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Slightly Meets (SM)  Slightly Meets (SM) Helpful for fewer users.  There is a connection between the query and the result, but not a  strong or satisfying connection.  Many or most users would wish to see additional results. ",
+        "font_details": [
+            {
+                "text": " Slightly Meets (SM) ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " Helpful for fewer users.  There is a connection between the query and the result, but not a  strong or satisfying connection.  Many or most users would wish to see additional results. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Fails to Meet (FailsM)  Fails to Meet (FailsM) Completely fails to meet the needs of the users.  All or almost all users would wish to see  additional results. ",
+        "font_details": [
+            {
+                "text": " Fails to Meet (FailsM) ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " Completely fails to meet the needs of the users.  All or almost all users would wish to see  additional results. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Please  note  that  you  may  assign  Please  note  that  you  may  assign in-between  in-between ratings.  Use  in-between  ratings  if  you  think  the  rating  of  a  result  falls  between two labels.  You can either drag the slider or click on the point that you want the slider to land on. ",
+        "font_details": [
+            {
+                "text": " Please  note  that  you  may  assign ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " in-between ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " ratings.  Use  in-between  ratings  if  you  think  the  rating  of  a  result  falls  between two labels.  You can either drag the slider or click on the point that you want the slider to land on. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "13.1  Rating Result Blocks: Block Content and Landing Pages ",
+        "font_details": [
+            {
+                "text": " 13.1  Rating Result Blocks: Block Content and Landing Pages ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 10.994999885559082,
+                "color": 3302911,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "For Needs Met rating, you will assign a rating to each result.  Each result includes the content inside the result block and  landing pages associated with the result.   ",
+        "font_details": [
+            {
+                "text": " For Needs Met rating, you will assign a rating to each result.  Each result includes the content inside the result block and  landing pages associated with the result.   ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Which part of the result do you rate?  It depends on both the query and the result block: ",
+        "font_details": [
+            {
+                "text": " Which part of the result do you rate?  It depends on both the query and the result block: ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Type of Block  What to Rate ",
+        "font_details": [
+            {
+                "text": " Type of Block  What to Rate ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Special Content Result Block  (SCRB) ",
+        "font_details": [
+            {
+                "text": " Special Content Result Block  (SCRB) ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Note: Assume that interactive  result blocks function as intended.  Try to interact with the result block  as some links, buttons, or other  features in your rating task may  work. ",
+        "font_details": [
+            {
+                "text": " Note: Assume that interactive  result blocks function as intended.  Try to interact with the result block  as some links, buttons, or other  features in your rating task may  work. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "The content inside this type of block should always play a large role in your rating.   ",
+        "font_details": [
+            {
+                "text": " The content inside this type of block should always play a large role in your rating.   ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Some Special Content Result Blocks may have links to landing pages.  In these  cases, think about whether a user would click on the link in order to satisfy their  user need. ",
+        "font_details": [
+            {
+                "text": " Some Special Content Result Blocks may have links to landing pages.  In these  cases, think about whether a user would click on the link in order to satisfy their  user need. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "●  If most users would not click, rate the Special Content Result Block based  on the block content alone.  ●  If some or many users would click, you may consider the helpfulness of the  landing page(s) in addition to the content in the block.  In this case,  ●  If most users would not click, rate the Special Content Result Block based  on the block content alone.  ●  If some or many users would click, you may consider the helpfulness of the  landing page(s) in addition to the content in the block.  In this case, both  both need to be helpful to justify a high rating. ",
+        "font_details": [
+            {
+                "text": " ●  If most users would not click, rate the Special Content Result Block based  on the block content alone.  ●  If some or many users would click, you may consider the helpfulness of the  landing page(s) in addition to the content in the block.  In this case, ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " both ",
+                "font_name": "Arial-ItalicMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": true
+            },
+            {
+                "text": " need to be helpful to justify a high rating. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Web Search Result Block  Web Search Result Block A click is required, and you should evaluate the landing page to assign a rating. ",
+        "font_details": [
+            {
+                "text": " Web Search Result Block ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " A click is required, and you should evaluate the landing page to assign a rating. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 1,
+        "line_content": "Copyright 2022  98 ",
+        "font_details": [
+            {
+                "text": " Copyright 2022  98 ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "For example, think about the query [what does love mean]. ",
+        "font_details": [
+            {
+                "text": " For example, think about the query [what does love mean]. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Result Block  Query: [what does love mean]  Rating ",
+        "font_details": [
+            {
+                "text": " Result Block  Query: [what does love mean]  Rating ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Special Content Result Block ",
+        "font_details": [
+            {
+                "text": " Special Content Result Block ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Most users would probably not click on  the Special Content Result Block,  because the block contains a large  amount of helpful content and has no  obvious landing page link associated  with it. ",
+        "font_details": [
+            {
+                "text": " Most users would probably not click on  the Special Content Result Block,  because the block contains a large  amount of helpful content and has no  obvious landing page link associated  with it. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Therefore, base your rating on the  content inside the block itself. ",
+        "font_details": [
+            {
+                "text": " Therefore, base your rating on the  content inside the block itself. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Web Search Result Block ",
+        "font_details": [
+            {
+                "text": " Web Search Result Block ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "In this case, users would have to click on  the web search result in order to get an  answer to the question. ",
+        "font_details": [
+            {
+                "text": " In this case, users would have to click on  the web search result in order to get an  answer to the question. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Therefore, base your rating on the  content of the landing page. ",
+        "font_details": [
+            {
+                "text": " Therefore, base your rating on the  content of the landing page. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "line_content": "Copyright 2022  99 ",
+        "font_details": [
+            {
+                "text": " Copyright 2022  99 ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Here are some examples of Special Content Result Blocks where the block should be rated primarily on the content inside  the block itself.  As always, please use your judgment. ",
+        "font_details": [
+            {
+                "text": " Here are some examples of Special Content Result Blocks where the block should be rated primarily on the content inside  the block itself.  As always, please use your judgment. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Query and Special Content Result Block ",
+        "font_details": [
+            {
+                "text": " Query and Special Content Result Block ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Query  Query : [utopia animal hospital]  : [utopia animal hospital] Query  Query : [chicago weather]  : [chicago weather] Query:  Query: [calories in a banana] ",
+        "font_details": [
+            {
+                "text": " Query ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " : [utopia animal hospital] ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " Query ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " : [chicago weather] ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " Query: ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " [calories in a banana] ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Query  Query : [how to find security code on  visa] ",
+        "font_details": [
+            {
+                "text": " Query ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " : [how to find security code on  visa] ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Query  Query : [how did Lincoln die]  : [how did Lincoln die] Query  Query : [movies san francisco] ",
+        "font_details": [
+            {
+                "text": " Query ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " : [how did Lincoln die] ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " Query ",
+                "font_name": "Arial-BoldMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": true,
+                "italic": false
+            },
+            {
+                "text": " : [movies san francisco] ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Note: The guidance in this section specifically applies to Needs Met ratings.  For Special Content Result Blocks that have  landing pages, you may or may not also be asked to provide PQ ratings.  In these cases, your PQ rating should always be  based on the landing page.  Please refer to  Note: The guidance in this section specifically applies to Needs Met ratings.  For Special Content Result Blocks that have  landing pages, you may or may not also be asked to provide PQ ratings.  In these cases, your PQ rating should always be  based on the landing page.  Please refer to Section  14.0  Section  14.0 for more about the relationship between Needs  Met and Page  Quality ratings. ",
+        "font_details": [
+            {
+                "text": " Note: The guidance in this section specifically applies to Needs Met ratings.  For Special Content Result Blocks that have  landing pages, you may or may not also be asked to provide PQ ratings.  In these cases, your PQ rating should always be  based on the landing page.  Please refer to ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " Section  14.0 ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 1070284,
+                "bold": false,
+                "italic": false
+            },
+            {
+                "text": " for more about the relationship between Needs  Met and Page  Quality ratings. ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    },
+    {
+        "page": 3,
+        "line_content": "Copyright 2022  100 ",
+        "font_details": [
+            {
+                "text": " Copyright 2022  100 ",
+                "font_name": "ArialMT",
+                "font_size": 9.9975004196167,
+                "color": 0,
+                "bold": false,
+                "italic": false
+            }
+        ]
+    }
+]
