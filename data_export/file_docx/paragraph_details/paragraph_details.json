@@ -1,0 +1,3763 @@
+[
+    {
+        "text": "SCHEDULE OF THE MEETING",
+        "runs": [
+            {
+                "text": "SCHEDULE OF THE MEETING",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Meeting date: October 28th, 2023",
+        "runs": [
+            {
+                "text": "Meeting date:",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " October 28th, 2023",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Estimated time: from 9:45 a.m. - 12:18 p.m.",
+        "runs": [
+            {
+                "text": "Estimated time:",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " from 9:45 a.m. - 12:18 p.m.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Location: Classroom D202 (Area D) - Danang University of Economics",
+        "runs": [
+            {
+                "text": "Location:",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " Classroom D202 (Area D) - Danang University of Economics",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Participants:",
+        "runs": [
+            {
+                "text": "Participants:",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reporting groups include: Cin, Appendicitis, Mabu, Blue Ribbon.",
+        "runs": [
+            {
+                "text": "Reporting groups include: Cin, Appendicitis, Mabu, Blue Ribbon.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader - ABC",
+        "runs": [
+            {
+                "text": "Team leader - ABC",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist Group - SevenTeen ",
+        "runs": [
+            {
+                "text": "Receptionist Group - SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Logistics Staff - MB",
+        "runs": [
+            {
+                "text": "Logistics Staff - MB",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Hope the meeting goes well!",
+        "runs": [
+            {
+                "text": "Hope the meeting goes well!",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "Time",
+        "runs": [
+            {
+                "text": "Time",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Group in charge",
+        "runs": [
+            {
+                "text": "Group in charge",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Contents ",
+        "runs": [
+            {
+                "text": "Contents ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Note",
+        "runs": [
+            {
+                "text": "Note",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "9:45 ",
+        "runs": [
+            {
+                "text": "9:45 ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Receptionist group (SevenTeen)",
+        "runs": [
+            {
+                "text": "Receptionist group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "(SevenTeen)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Greet participants",
+        "runs": [
+            {
+                "text": "Greet participants",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Before the meeting, the SevenTeen will stand and greet guests at the door, invite the reporting groups to their assigned seats.",
+        "runs": [
+            {
+                "text": "Before the meeting, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "will stand and greet guests at the door, invite the reporting groups to their assigned seats.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:00 ",
+        "runs": [
+            {
+                "text": "10:00 ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:10",
+        "runs": [
+            {
+                "text": "10:10",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader",
+        "runs": [
+            {
+                "text": "Team leader",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "State the purpose of the meeting and declare the meeting open.",
+        "runs": [
+            {
+                "text": "State the purpose of the meeting and declare the meeting open.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "The ABC will send a representative to give opening remarks about the reason for holding the meeting and announce the list and the order of reporting groups: ",
+        "runs": [
+            {
+                "text": "The ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " will send a representative to give opening remarks about the reason for holding the meeting and announce the list and the order of reporting groups: ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "1. Cin",
+        "runs": [
+            {
+                "text": "1. Cin",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "2. Appendicitis",
+        "runs": [
+            {
+                "text": "2. Appendicitis",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "3. Mabu ",
+        "runs": [
+            {
+                "text": "3. Mabu ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "3. Blue Ribbon",
+        "runs": [
+            {
+                "text": "3. Blue Ribbon",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:10",
+        "runs": [
+            {
+                "text": "10:10",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:22",
+        "runs": [
+            {
+                "text": "10:22",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reporting group 1",
+        "runs": [
+            {
+                "text": "Reporting group 1",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Cin)",
+        "runs": [
+            {
+                "text": "(Cin)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "Present the report",
+        "runs": [
+            {
+                "text": "Present the report",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the reviewing group asks 2 questions for the reporting group to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+ After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reviewing group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reporting group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:22",
+        "runs": [
+            {
+                "text": "10:22",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:32",
+        "runs": [
+            {
+                "text": "10:32",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reviewing group 1",
+        "runs": [
+            {
+                "text": "Reviewing group 1",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Appendicitis)",
+        "runs": [
+            {
+                "text": "(Appendicitis)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Ask the reporting group questions",
+        "runs": [
+            {
+                "text": "Ask the reporting group questions",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the reviewing group asks 2 questions for the reporting group to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+ After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reviewing group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reporting group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:32",
+        "runs": [
+            {
+                "text": "10:32",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:37",
+        "runs": [
+            {
+                "text": "10:37",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader",
+        "runs": [
+            {
+                "text": "Team leader",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Summarize main points and introduce next group",
+        "runs": [
+            {
+                "text": "Summarize main points and introduce next group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the reviewing group asks 2 questions for the reporting group to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+ After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reviewing group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reporting group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:37",
+        "runs": [
+            {
+                "text": "10:37",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:49",
+        "runs": [
+            {
+                "text": "10:49",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reporting group 2",
+        "runs": [
+            {
+                "text": "Reporting group 2",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Appendicitis)",
+        "runs": [
+            {
+                "text": "(Appendicitis)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Present the report",
+        "runs": [
+            {
+                "text": "Present the report",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "+ After 12 minutes, the reviewing group asks 2 questions for the reporting group to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+ After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reviewing group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reporting group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:49",
+        "runs": [
+            {
+                "text": "10:49",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:59",
+        "runs": [
+            {
+                "text": "10:59",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reviewing group 2",
+        "runs": [
+            {
+                "text": "Reviewing group 2",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Mabu)",
+        "runs": [
+            {
+                "text": "(Mabu)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Ask the reporting group questions",
+        "runs": [
+            {
+                "text": "Ask the reporting group questions",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the reviewing group asks 2 questions for the reporting group to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+ After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reviewing group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reporting group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "10:59",
+        "runs": [
+            {
+                "text": "10:59",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:04",
+        "runs": [
+            {
+                "text": "11:04",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader",
+        "runs": [
+            {
+                "text": "Team leader",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Summarize main points and announce 5-minute break",
+        "runs": [
+            {
+                "text": "Summarize main points and announce 5-minute break",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the reviewing group asks 2 questions for the reporting group to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+ After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reviewing group ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "reporting group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:04",
+        "runs": [
+            {
+                "text": "11:04",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:09",
+        "runs": [
+            {
+                "text": "11:09",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "5-minute break  ",
+        "runs": [
+            {
+                "text": "5-minute break  ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "11:00",
+        "runs": [
+            {
+                "text": "11:00",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:05",
+        "runs": [
+            {
+                "text": "11:05",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader ",
+        "runs": [
+            {
+                "text": "Team leader ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Introduce the next group reporting",
+        "runs": [
+            {
+                "text": "Introduce the next group reporting",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the Blue Ribbon asks 2 ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Blue Ribbon ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "questions for Mabu to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Mabu",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:05",
+        "runs": [
+            {
+                "text": "11:05",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "11:13",
+        "runs": [
+            {
+                "text": "11:13",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reporting report 3",
+        "runs": [
+            {
+                "text": "Reporting report 3",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Mabu)",
+        "runs": [
+            {
+                "text": "(Mabu)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Present the report",
+        "runs": [
+            {
+                "text": "Present the report",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "+ After 12 minutes, the Blue Ribbon asks 2 ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Blue Ribbon ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "questions for Mabu to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Mabu",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:13",
+        "runs": [
+            {
+                "text": "11:13",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:25",
+        "runs": [
+            {
+                "text": "11:25",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reviewing group 3",
+        "runs": [
+            {
+                "text": "Reviewing group 3",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Blue Ribbon)",
+        "runs": [
+            {
+                "text": "(Blue Ribbon)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Ask the reporting group questions",
+        "runs": [
+            {
+                "text": "Ask the reporting group questions",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": " ",
+        "runs": [
+            {
+                "text": " ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the Blue Ribbon asks 2 ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Blue Ribbon ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "questions for Mabu to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Mabu",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:19",
+        "runs": [
+            {
+                "text": "11:19",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:30",
+        "runs": [
+            {
+                "text": "11:30",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader",
+        "runs": [
+            {
+                "text": "Team leader",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Summarize main points and introduce next group",
+        "runs": [
+            {
+                "text": "Summarize main points and introduce next group",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ After 12 minutes, the Blue Ribbon asks 2 ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Blue Ribbon ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "asks ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "2 ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "questions for Mabu to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "questions ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "for ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Mabu",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:21",
+        "runs": [
+            {
+                "text": "11:21",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:33",
+        "runs": [
+            {
+                "text": "11:33",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reporting report 4",
+        "runs": [
+            {
+                "text": "Reporting report 4",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Blue Ribbon)",
+        "runs": [
+            {
+                "text": "(Blue Ribbon)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Present the report",
+        "runs": [
+            {
+                "text": "Present the report",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+After 12 minutes, the Cin asks 2 questions for the Blue Ribbon to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Cin",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " asks 2 questions for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Blue Ribbon ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "11:33",
+        "runs": [
+            {
+                "text": "11:33",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "11:45",
+        "runs": [
+            {
+                "text": "11:45",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Reviewing group 4",
+        "runs": [
+            {
+                "text": "Reviewing group 4",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(Cin)",
+        "runs": [
+            {
+                "text": "(Cin)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Ask the reporting group questions",
+        "runs": [
+            {
+                "text": "Ask the reporting group questions",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "+After 12 minutes, the Cin asks 2 questions for the Blue Ribbon to answer (discussion time is 10 minutes).",
+        "runs": [
+            {
+                "text": "+After 12 minutes, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Cin",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " asks 2 questions for the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "Blue Ribbon ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "to answer (discussion time is 10 minutes).",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ ABC summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " summarizes main points and introduces the next reporting group after each reporting session finishes. ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "+ SevenTeen collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+        "runs": [
+            {
+                "text": "+ ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "SevenTeen",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": " collects the group evaluation sheet of the reviewing group and individual sheet of each member of the listening groups.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Total is 30 minutes.",
+        "runs": [
+            {
+                "text": "Total is 30 minutes.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    },
+    {
+        "text": "11:45",
+        "runs": [
+            {
+                "text": "11:45",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "12:00",
+        "runs": [
+            {
+                "text": "12:00",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader ",
+        "runs": [
+            {
+                "text": "Team leader ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Summarize the proposal of each reporting group and choose the best one",
+        "runs": [
+            {
+                "text": "Summarize the proposal of each reporting group and choose the best one",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "After the groups have finished reporting, the ABC remarks on each group's presentation and makes a decision on which proposal to choose.",
+        "runs": [
+            {
+                "text": "After the groups have finished reporting, the ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "remarks on each group's presentation and makes a decision on which proposal to choose.",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "12:00",
+        "runs": [
+            {
+                "text": "12:00",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "-",
+        "runs": [
+            {
+                "text": "-",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "12:10",
+        "runs": [
+            {
+                "text": "12:10",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Team leader",
+        "runs": [
+            {
+                "text": "Team leader",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "(ABC)",
+        "runs": [
+            {
+                "text": "(ABC)",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "Close the meeting",
+        "runs": [
+            {
+                "text": "Close the meeting",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "ABC expresses their thanks and declares the meeting closed",
+        "runs": [
+            {
+                "text": "ABC ",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": true,
+                "italic": true,
+                "underline": null,
+                "color": "000000"
+            },
+            {
+                "text": "expresses their thanks and declares the meeting closed",
+                "font_name": "Times New Roman",
+                "font_size": 13.0,
+                "bold": null,
+                "italic": null,
+                "underline": null,
+                "color": "000000"
+            }
+        ]
+    },
+    {
+        "text": "",
+        "runs": []
+    }
+]
