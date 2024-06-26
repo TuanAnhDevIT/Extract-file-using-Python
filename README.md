@@ -14,7 +14,7 @@ Make sure you have Python installed. You can install the required packages using
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/TuanAnhDevIT/thinkpromt_test_v1.git
     cd test_thinkprompt
     ```
 
