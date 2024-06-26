@@ -1,6 +1,0 @@
-Client-Server Architecture
-Machines are expensive, applications are complex
-Seperate the application into two components 
-Expensive workload can be done on the server
-Clients call servers to perform expensive tasks
-Remote procedure call (RPC) was born

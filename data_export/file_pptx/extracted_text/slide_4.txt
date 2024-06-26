@@ -1,6 +1,0 @@
-Client-Server Architecture Benefits
-Servers have beefy hardware
-Clients have commodity hardware  
-Clients can still perform lightweight tasks
-Clients no longer require dependencies
-However, we need a communication model

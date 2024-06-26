@@ -9,3 +9,5 @@ fpdf
 pdf2image
 docx2txt
 python-pptx
+translator-cli
+deep-translator[pptx]

@@ -1,2 +1,0 @@
-Client-Server Architecture
-A revolution in networking
