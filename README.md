@@ -1,5 +1,5 @@
 # thinkpromt_test_v1
-# Test ThinkPrompt Project
+# Extract file using Python
 
 This project is designed to demonstrate various file processing tasks, including working with PDF, DOCX, and PPTX files. Below are the structure of the project and instructions on how to set it up and use it.
 
@@ -15,7 +15,7 @@ Make sure you have Python installed. You can install the required packages using
 
     ```bash
     git clone https://github.com/TuanAnhDevIT/Extract-file-using-Python.git
-    cd test_thinkprompt
+    cd Extract-file-using-Python
     ```
 
 2. **Create a virtual environment:**
